@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=VigenereWithoutArray
-comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ VigenereWithoutArray.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
-comment1.params=text\ key\ wirdVerschlusselt
-comment1.target=java.lang.String\ entschluesseln(java.lang.String,\ java.lang.String,\ boolean)
-comment1.text=\n\ @param\ text\ Dies\ ist\ der\ Text,\ der\ entweder\ verschl\u00FCsselt\n\ oder\ entschl\u00FCsselt\ werden\ soll.\n
-numComments=2
